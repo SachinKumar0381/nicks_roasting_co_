@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nicks_roasting_co_/static/css/main.8a7864c0.css",
+    "main.js": "/nicks_roasting_co_/static/js/main.a7ce74cc.js",
+    "static/js/453.64623cef.chunk.js": "/nicks_roasting_co_/static/js/453.64623cef.chunk.js",
+    "static/media/banner_img.png": "/nicks_roasting_co_/static/media/banner_img.d9c160e43720f320b166.png",
+    "static/media/open_hour_bg.jpg": "/nicks_roasting_co_/static/media/open_hour_bg.e6c1eebfbdb68c0743be.jpg",
+    "static/media/footer_bg.jpg": "/nicks_roasting_co_/static/media/footer_bg.b02ab0f8e6fd434a0cce.jpg",
+    "static/media/logo_white_1x.png": "/nicks_roasting_co_/static/media/logo_white_1x.86e79c92e2ea7c75e0f3.png",
+    "static/media/bg_01.jpg": "/nicks_roasting_co_/static/media/bg_01.f8bf79c31e0a82aa4662.jpg",
+    "static/media/img_09.png": "/nicks_roasting_co_/static/media/img_09.578ada22b228d16afeca.png",
+    "static/media/img_02.png": "/nicks_roasting_co_/static/media/img_02.34d7cc74139a51323e56.png",
+    "static/media/img_01.png": "/nicks_roasting_co_/static/media/img_01.b2d5678fdcf351e40db0.png",
+    "static/media/11062b_~mv2.webp": "/nicks_roasting_co_/static/media/11062b_54b0313b65a44b479c9f065e126f7c06~mv2.e36d2615ab976ab71b18.webp",
+    "static/media/coffee_table_image.webp": "/nicks_roasting_co_/static/media/coffee_table_image.99293f23f4733da6ff4b.webp",
+    "static/media/Couple_Drinking_Coffee.webp": "/nicks_roasting_co_/static/media/Couple_Drinking_Coffee.c76808da8178cf7e4c9d.webp",
+    "static/media/slick.svg": "/nicks_roasting_co_/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nicks_roasting_co_/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nicks_roasting_co_/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/nicks_roasting_co_/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/nicks_roasting_co_/index.html",
+    "main.8a7864c0.css.map": "/nicks_roasting_co_/static/css/main.8a7864c0.css.map",
+    "main.a7ce74cc.js.map": "/nicks_roasting_co_/static/js/main.a7ce74cc.js.map",
+    "453.64623cef.chunk.js.map": "/nicks_roasting_co_/static/js/453.64623cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a7864c0.css",
+    "static/js/main.a7ce74cc.js"
+  ]
+}
