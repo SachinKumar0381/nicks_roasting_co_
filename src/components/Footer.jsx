@@ -28,7 +28,7 @@ const Footer = () => {
             <div>
                 <p>Info@nicksroastingco.com</p>
                 <p>1800 297 4001</p>
-                <Button sx={{backgroundColor:"#c8a27a",color:"white"}}>Contact Us</Button>
+                <Button sx={{backgroundColor:"#c8a27a",color:"white",'&:hover':{backgroundColor:"black"}}}>Contact Us</Button>
             </div>
         </div>
         <div className='footer-down'>

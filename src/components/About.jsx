@@ -13,7 +13,7 @@ const About = () => {
             <h2>Good to the Last Sip</h2>
             <p>Coffee runs in our blood. At Nick's Roasting Co., we pick and brew the best beans to make sure the coffee you enjoy will be a unique and satisfying experience for both body and mind. We’re proud that our Coffee Shop has been a staple of Sacramento coffee lovers since 2023. Check out our products and best sellers.</p>
             <br /><br />
-            <Button sx={{backgroundColor:"#c8a27a",color:"white"}}>Contact Us</Button>
+            <Button sx={{backgroundColor:"#c8a27a",color:"white",'&:hover':{backgroundColor:"black"}}}>Contact Us</Button>
         </div>
         <div className='about-right'>
             <img src={img_01} alt="" className='about-img'/>

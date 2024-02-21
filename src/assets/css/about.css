@@ -39,3 +39,20 @@
         transform: rotate(360deg);
     }
 }
+
+@media (max-width:1024px){
+    .about-img{
+        margin-top: 50px;
+        aspect-ratio: 1/1;
+        border-radius: 50%;
+        object-fit: cover;
+        animation: rotateimg 20s linear infinite;
+    }
+}
+
+@media (min-width:1500px){
+    .about-contact-btn{
+        font-size: 100px;
+        border: 1px solid red;
+    }
+}

@@ -1,6 +1,7 @@
 .product-header{
     text-align: center;
     font-size: 3vw;
+    margin-top: 40px;
     color: #75522d;
 }
 .slider-div{
@@ -8,8 +9,8 @@
     position: relative;
 }
 .slider-img{
-    height: 100%;
-    width: 100%;
+    height: 95%;
+    width: 95%;
     object-fit: contain;
     margin: auto;
 }
