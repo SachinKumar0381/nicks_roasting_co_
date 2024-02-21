@@ -1,0 +1,41 @@
+.about-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.about-left{
+    padding: 5%;
+    flex: 2;
+}
+.about-left p{
+    color: rgb(92, 91, 91);
+    line-height: 40px;
+}
+.about-right{
+    padding: 5%;
+    flex: 2;
+}
+.about-right img{
+    width: 100%;
+}
+.about-header{
+    font-size: 3vw;
+    color: #75522d;
+}
+.pd-tp-50{
+    padding-top: 50px;
+}
+.about-img{
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    object-fit: cover;
+    animation: rotateimg 20s linear infinite;
+}
+
+@keyframes rotateimg{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

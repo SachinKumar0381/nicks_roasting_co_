@@ -1,0 +1,16 @@
+.footer-up{
+    display: flex;
+    justify-content: space-evenly;
+    background-size:cover;
+    background-position: center;
+    width: 100%;
+    padding: 50px 0px;
+}
+.footer-up img{
+    width: 100px;
+}
+.footer-down{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #c8a27a;
+}

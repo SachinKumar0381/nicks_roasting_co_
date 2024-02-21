@@ -1,0 +1,21 @@
+.open-header{
+    text-align: center;
+    font-size: 3vw;
+    color: #75522d;
+}
+.open-left{
+    padding: 1% 0px 20% 5%;
+}
+.open-left h2{
+    font-size: 1.7vw;
+}
+.open-left h3{
+    font-size: 1.5vw;
+}
+.open-table{
+    padding-bottom: 300px;
+}
+.open-table h3{
+    line-height: 0px;
+    font-size: 1.5vw;
+}

@@ -1,0 +1,38 @@
+body {
+  font-family: 'Arial', sans-serif;
+  overflow-x: hidden;
+}
+.content {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  overflow: hidden;
+  margin: 0; 
+  padding: 0;
+  font-size: 0;
+}
+
+.moving-image {
+  max-width: 40%;
+  transition: transform 0.2s ease-out;
+  margin: 0;
+  display: block;
+  position: absolute;
+  top: 70%;
+  z-index: 999;
+}
+
+.cursor {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: #3498db;
+  border-radius: 50%;
+  mix-blend-mode: difference;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  transition: transform 0.15s ease-out;
+  z-index: 9999;
+}

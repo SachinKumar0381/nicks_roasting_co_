@@ -1,0 +1,59 @@
+.logo-div{
+    width: 100px;
+}
+.logo-img{
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+.menu-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    height: 100%;
+    overflow: scroll;
+    top: 0px;
+    z-index: 9999;
+    width: 100%;
+    background-color: white;
+    padding: 100px 0px;
+    animation: movingup 0.2s linear;
+}
+.h2-div{
+    text-align: center;
+    width: 100%;
+    overflow-y: scroll;
+    padding-bottom: 200px;
+}
+.menu-div h2{
+    line-height: 40px;
+    color: grey;
+    font-weight: lighter;
+}
+.menu-div h2:nth-child(1){
+    margin-top: 30px;
+}
+.menu-div h2:hover{
+    text-decoration: underline wavy #c8a27a 3px;
+    cursor: pointer;
+}
+.close-btn{
+    align-self: end;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    z-index: 99999;
+}
+.close-btn:hover{
+    cursor: pointer;
+}
+
+@keyframes movingup{
+    0%{
+        top: 500px;
+    }
+    100%{
+        top: 0px;
+    }
+}
