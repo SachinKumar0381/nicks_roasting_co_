@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nicks_roasting_co_/static/css/main.f87d5608.css",
-    "main.js": "/nicks_roasting_co_/static/js/main.1be41b98.js",
+    "main.css": "/nicks_roasting_co_/static/css/main.b9ccd0f8.css",
+    "main.js": "/nicks_roasting_co_/static/js/main.545ad678.js",
     "static/js/453.64623cef.chunk.js": "/nicks_roasting_co_/static/js/453.64623cef.chunk.js",
     "static/media/banner_img.png": "/nicks_roasting_co_/static/media/banner_img.d9c160e43720f320b166.png",
     "static/media/open_hour_bg.jpg": "/nicks_roasting_co_/static/media/open_hour_bg.e6c1eebfbdb68c0743be.jpg",
@@ -19,12 +19,12 @@
     "static/media/slick.ttf": "/nicks_roasting_co_/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/nicks_roasting_co_/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nicks_roasting_co_/index.html",
-    "main.f87d5608.css.map": "/nicks_roasting_co_/static/css/main.f87d5608.css.map",
-    "main.1be41b98.js.map": "/nicks_roasting_co_/static/js/main.1be41b98.js.map",
+    "main.b9ccd0f8.css.map": "/nicks_roasting_co_/static/css/main.b9ccd0f8.css.map",
+    "main.545ad678.js.map": "/nicks_roasting_co_/static/js/main.545ad678.js.map",
     "453.64623cef.chunk.js.map": "/nicks_roasting_co_/static/js/453.64623cef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87d5608.css",
-    "static/js/main.1be41b98.js"
+    "static/css/main.b9ccd0f8.css",
+    "static/js/main.545ad678.js"
   ]
 }
