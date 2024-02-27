@@ -6,3 +6,19 @@
     color: #75522d;
     margin-bottom: 20%;
 }
+@media (max-width:1024px){
+   
+}
+@media (max-width:768px){
+   
+}
+@media (max-width:425px){
+    .banner-header{
+        margin-top: 30%;
+        margin-left: 5%;
+        font-size: 3.5vw;
+        line-height: 40px;
+        color: #75522d;
+        margin-bottom: 20%;
+    }
+}

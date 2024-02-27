@@ -73,4 +73,29 @@
   .flip-container:hover .back {
     display: block; /* Show the back side on hover */
   }
+
+  .pd-50{
+    padding: 5%;
+    padding-bottom: 50px;
+  }
+
+  @media (max-width:1024px){
+   
+  }
+  @media (max-width:768px){
+    .product-header{
+      text-align: center;
+      font-size: 3vw;
+      margin-top: 0px;
+      color: #75522d;
+  }
+  }
+  @media (max-width:425px){
+    .product-header{
+      text-align: center;
+      font-size: 6vw;
+      margin-top: 0px;
+      color: #75522d;
+  }
+  }
   

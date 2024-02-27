@@ -6,7 +6,7 @@ import bg_img from "../assets/img/bg_01.jpg";
 
 const About = () => {
   return (
-    <div style={{backgroundImage:`url(${bg_img})`,backgroundSize:"100%",backgroundRepeat:"no-repeat"}} className='pd-tp-50'>
+    <div style={{backgroundImage:`url(${bg_img})`}} className='pd-tp-50 about-main-div'>
         <div className='about-flex'>
         <div className='about-left'>
         <h1 className='about-header'>WELCOME TO NICK'S <br />ROASTING CO.</h1>

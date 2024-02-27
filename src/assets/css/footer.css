@@ -8,9 +8,36 @@
 }
 .footer-up img{
     width: 100px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
 }
 .footer-down{
     display: flex;
     justify-content: space-evenly;
     background-color: #c8a27a;
+}
+
+@media (max-width:1024px){
+   
+}
+@media (max-width:768px){
+   
+}
+@media (max-width:425px){
+    .footer-up{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        background-size:cover;
+        background-position: center;
+        width: 90%;
+        padding: 5%;
+    }
+    .footer-down{
+        padding: 5%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        background-color: #c8a27a;
+    }
 }

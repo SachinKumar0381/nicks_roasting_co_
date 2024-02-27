@@ -22,3 +22,22 @@
     width: 70%;
     margin-top: 50px;
 }
+
+@media (max-width:1024px){
+   
+}
+@media (max-width:768px){
+   
+}
+@media (max-width:425px){
+    .feat-flex{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .feat-header{
+        text-align: center;
+        font-size: 6vw;
+        color: #75522d;
+    }
+}

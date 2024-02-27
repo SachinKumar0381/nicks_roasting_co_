@@ -4,7 +4,7 @@ import "../assets/css/openhour.css";
 
 const Openhour = () => {
   return (
-    <div style={{backgroundImage:`url(${bg_01})`,backgroundSize:"100%",backgroundRepeat:"no-repeat",height:"auto"}} className='pd-tp-50'>
+    <div style={{backgroundImage:`url(${bg_01})`}} className='pd-tp-50 open-bg'>
         <h1 className='open-header'>OPENING HOURS</h1>
         <div className='open-left'>
             <h3>Come Visit us!</h3>

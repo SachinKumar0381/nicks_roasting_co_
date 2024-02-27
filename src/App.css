@@ -36,3 +36,30 @@ body {
   transition: transform 0.15s ease-out;
   z-index: 9999;
 }
+
+
+@media (max-width:1024px){
+   
+}
+@media (max-width:768px){
+  .moving-image {
+    max-width: 15%;
+    transition: transform 0.2s ease-out;
+    margin: 0;
+    display: block;
+    position: absolute;
+    top: 70%;
+    z-index: 999;
+  }
+}
+@media (max-width:425px){
+  .moving-image {
+    max-width: 25%;
+    transition: transform 0.2s ease-out;
+    margin: 0;
+    display: block;
+    position: absolute;
+    top: 70%;
+    z-index: 999;
+  }
+}

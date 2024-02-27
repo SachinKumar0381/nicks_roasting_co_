@@ -30,6 +30,10 @@
     object-fit: cover;
     animation: rotateimg 20s linear infinite;
 }
+.about-main-div{
+    background-size:100%;
+    background-repeat:no-repeat;
+}
 
 @keyframes rotateimg{
     0%{
@@ -47,5 +51,34 @@
         border-radius: 50%;
         object-fit: cover;
         animation: rotateimg 20s linear infinite;
+    }
+}
+@media (max-width:768px){
+    .about-main-div{
+        background-size:130%;
+        background-repeat:no-repeat;
+    }
+}
+@media (max-width:425px){
+    .about-main-div{
+        background-size:400%;
+        background-repeat:no-repeat;
+    }
+    .about-flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .about-header{
+        font-size: 6vw;
+        color: #75522d;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width:425px){
+    .about-main-div{
+        background-size:430%;
+        background-repeat:no-repeat;
     }
 }

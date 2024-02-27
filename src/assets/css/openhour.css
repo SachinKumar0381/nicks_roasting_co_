@@ -19,3 +19,43 @@
     line-height: 0px;
     font-size: 1.5vw;
 }
+.open-bg{
+    background-size:100%;
+    background-repeat:no-repeat;
+    height:auto;
+}
+
+@media (max-width:1024px){
+   
+}
+@media (max-width:768px){
+    .open-left h2{
+        font-size: 2vw;
+    }
+    .open-left h3{
+        font-size: 2vw;
+    }
+    .open-header{
+        text-align: center;
+        font-size: 3vw;
+        color: #75522d;
+    }
+}
+@media (max-width:425px){
+    .open-left h2{
+        font-size: 4vw;
+    }
+    .open-left h3{
+        font-size: 4vw;
+    }
+    .open-header{
+        text-align: center;
+        font-size: 6vw;
+        color: #75522d;
+    }
+    .open-bg{
+        background-size:150%;
+        background-repeat:no-repeat;
+        height:auto;
+    }
+}
